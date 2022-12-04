@@ -24,8 +24,8 @@
   "spell": [
     {
       "name": "Test spell (Avon Icastia)",
-      "source": "AIHB:SPELLS",
-      "page": 7,
+      "source": "AIHB",
+      "page": 1,
       "level": 2,
       "school": "T",
       "time": [
