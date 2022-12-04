@@ -2,8 +2,8 @@
   "_meta": {
     "sources": [
       {
-        "json": "CodeTron:GS",
-        "abbreviation": "KGS",
+        "json": "Avon Icastia HB",
+        "abbreviation": "AIHB",
         "full": "My awesome Generic Spells",
         "authors": [
           "CodeTron"
@@ -23,8 +23,8 @@
   },
   "spell": [
     {
-      "name": "Alacrity Homebrew",
-      "source": "CodeTron:GS",
+      "name": "Test spell (Avon Icastia)",
+      "source": "AIHB:SPELLS",
       "page": 7,
       "level": 2,
       "school": "T",
